@@ -12,4 +12,4 @@ Hi there! I'm I-Hsiang Cheng, you can also call me Terry. I'm a passionate devel
 
 | Current Focus | Connect with Me |
 | ------------- | --------------- |
-| - Currently training in Java to become a back-end developer. | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1996_terry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-hsiang-cheng-033850198) <br> Feel free to check out my repositories and connect with me. When you connect with me, please let me know you found me through GitHub! |
+| - Currently training in Java to become a back-end developer. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-hsiang-cheng-033850198) <br> Feel free to check out my repositories and connect with me. When you connect with me, please let me know you found me through GitHub! |
